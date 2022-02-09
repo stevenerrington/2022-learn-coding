@@ -1,0 +1,184 @@
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+]0;~/Desktop/learn-r[?1034h(base) Stevens-MBP:learn-r stevenerrington$ git push -u origin masterremote set-url origin git@github.com:stevenerrington/2022-learn-r.git[29P://new.url.hereadd origin https://github.com/stevenerrington/2022-learn-r.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpull origin main[Ksterremote add origin https://github.com/stevenerrington/2022-learn-r.git;2D;22D;2D;2D;2D;2D;2D;2D;2D;2D;2D;2D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Phansenjohnson/website.git
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[44Pconda activate learn-rgit push -u origin mainremote add origin git@github.com:stevenerrington/2022-learn-r.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpush -u origin main[K[1Pconda activate learn-r
+^[[A
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+]0;~/Desktop/learn-r[?1034h(base) Stevens-MBP:learn-r stevenerrington$ conda activate learn-rgit push -u origin master[3Pconda activate learn-rgit push -u origin masterremote set-url origin git@github.com:stevenerrington/2022-learn-r.git[29P://new.url.hereadd origin https://github.com/stevenerrington/2022-learn-r.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpull origin main[Ksterremote add origin https://github.com/stevenerrington/2022-learn-r.git;2D;22D;2D;2D;2D;2D;2D;2D;2D;2D;2D;2D[Kto3
+2to3      2to3-     2to3-2.7  2to3-3.9  
+(base) Stevens-MBP:learn-r stevenerrington$ git remote add origin https://github.com/stevenerrington/2022-learn-r.git;2D;22D;2D;2D;2D;2D;2D;2D;2D;2D;2D;2to3
+2to3      2to3-     2to3-2.7  2to3-3.9  
+(base) Stevens-MBP:learn-r stevenerrington$ git remote add origin https://github.com/stevenerrington/2022-learn-r.git;2D;22D;2D;2D;2D;2D;2D;2D;2D;2D;2D;2to3[B[K [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kconda active[Kate leanr0[K[K[Krnr[K-r
+]0;~/Desktop/learn-r(learn-r) Stevens-MBP:learn-r stevenerrington$ sudo apt-get install -y libxml2-dev libcurl4-openssl-dev libssl-dev
+Password:
+sudo: apt-get: command not found
+]0;~/Desktop/learn-r(learn-r) Stevens-MBP:learn-r stevenerrington$ sudo apt-get install -y libxml2-dev libcurl4-openssl-dev libssl-devsudo ap t-get install -y libxml2-dev libcurl4-openssl-dev libssl-dev
+sudo: apt-get: command not found
+]0;~/Desktop/learn-r(learn-r) Stevens-MBP:learn-r stevenerrington$ sudo apt-get install -y libxml2-dev libcurl4-openssl-dev libssl-dev
+sudo: apt-get: command not found
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+]0;~/Desktop/learn-r[?1034h(base) Stevens-MBP:learn-r stevenerrington$ sudo apt-get install -y libxml2-dev libcurl4-openssl-dev libssl-devsudo apt-geet install -y libxml2-dev libcurl4-openssl-dev libssl-dev[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cconda activate learn-r[Kgit push -u origin master[3Pconda activate learn-r
+^[[A
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+]0;~/Desktop/learn-r[?1034h(base) Stevens-MBP:learn-r stevenerrington$ conda activate learn-r[Kconda activate learn-r
+]0;~/Desktop/learn-r(learn-r) Stevens-MBP:learn-r stevenerrington$ R
+WARNING: ignoring environment value of R_HOME
+
+R version 4.1.2 (2021-11-01) -- "Bird Hippie"
+Copyright (C) 2021 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin17.0 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[?1034h> install.packages('[K"ggplot2"
++ )
+--- Please select a CRAN mirror for use in this session ---
+Secure CRAN mirrors 
+
+ 1: 0-Cloud [https]
+ 2: Australia (Canberra) [https]
+ 3: Australia (Melbourne 1) [https]
+ 4: Australia (Melbourne 2) [https]
+ 5: Australia (Perth) [https]
+ 6: Austria [https]
+ 7: Belgium (Brussels) [https]
+ 8: Brazil (PR) [https]
+ 9: Brazil (RJ) [https]
+10: Brazil (SP 1) [https]
+11: Brazil (SP 2) [https]
+12: Bulgaria [https]
+13: Canada (MB) [https]
+14: Canada (ON 2) [https]
+15: Canada (ON 3) [https]
+16: Chile (Santiago) [https]
+17: China (Beijing 2) [https]
+18: China (Hefei) [https]
+19: China (Hong Kong) [https]
+20: China (Guangzhou) [https]
+21: China (Lanzhou) [https]
+22: China (Nanjing) [https]
+23: China (Shanghai 1) [https]
+24: China (Shanghai 2) [https]
+25: China (Shenzhen) [https]
+26: Costa Rica [https]
+27: Cyprus [https]
+28: Czech Republic [https]
+29: Denmark [https]
+30: East Asia [https]
+31: Ecuador (Cuenca) [https]
+32: Ecuador (Quito) [https]
+33: Estonia [https]
+34: France (Lyon 1) [https]
+35: France (Lyon 2) [https]
+36: France (Marseille) [https]
+37: France (Montpellier) [https]
+38: France (Paris 1) [https]
+39: Germany (Erlangen) [https]
+40: Germany (Leipzig) [https]
+41: Germany (Göttingen) [https]
+42: Germany (Münster) [https]
+43: Germany (Regensburg) [https]
+44: Greece [https]
+45: Hungary [https]
+46: Iceland [https]
+47: India [https]
+48: Indonesia (Jakarta) [https]
+49: Iran [https]
+50: Italy (Milano) [https]
+51: Italy (Padua) [https]
+52: Japan (Tokyo) [https]
+53: Korea (Gyeongsan-si) [https]
+54: Korea (Seoul 1) [https]
+55: Korea (Ulsan) [https]
+56: Malaysia [https]
+57: Mexico (Mexico City) [https]
+58: Mexico (Texcoco) [https]
+59: Morocco [https]
+60: Netherlands [https]
+61: New Zealand [https]
+62: Norway [https]
+63: Russia (Moscow) [https]
+64: South Africa (Johannesburg) [https]
+65: Spain (A Coruña) [https]
+66: Spain (Madrid) [https]
+67: Sweden (Borås) [https]
+68: Sweden (Umeå) [https]
+69: Switzerland [https]
+70: Taiwan (Taipei) [https]
+71: Turkey (Denizli) [https]
+72: Turkey (Istanbul) [https]
+73: Turkey (Mersin) [https]
+74: UK (Bristol) [https]
+75: UK (London 1) [https]
+76: USA (IA) [https]
+77: USA (KS) [https]
+78: USA (MI) [https]
+79: USA (OH) [https]
+80: USA (OR) [https]
+81: USA (TN) [https]
+82: USA (TX 1) [https]
+83: Uruguay [https]
+84: (other mirrors)
+
+Selection: 81
+[1mtrying URL 'https://mirrors.nics.utk.edu/cran/bin/macosx/contrib/4.1/ggplot2_3.3.5.tgz'
+[0m[1mContent type 'application/x-gzip'[0m[1m length 4125542 bytes (3.9 MB)
+[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m=[0m[1m
+[0m[1mdownloaded 3.9 MB
+
+[0m
+The downloaded binary packages are in
+	/var/folders/h4/31nzyp712_vfc89bdf4y0tz40000gn/T//RtmpDLGcug/downloaded_packages
+[1mWarning message:
+[0m[1mIn doTryCatch(return(expr), name, parentenv, handler) :[0m[1m
+ [0m[1m unable to load shared object '/Library/Frameworks/R.framework/Resources/modules//R_X11.so':
+  dlopen(/Library/Frameworks/R.framework/Resources/modules//R_X11.so, 0x0006): Library not loaded: /opt/X11/lib/libSM.6.dylib
+  Referenced from: /Library/Frameworks/R.framework/Versions/4.1/Resources/modules/R_X11.so
+  Reason: tried: '/opt/X11/lib/libSM.6.dylib' (no such file), '/Library/Frameworks/R.framework/Resources/lib/libSM.6.dylib' (no such file), '/Users/stevenerrington/opt/anaconda3/envs/learn-r/lib/server/libSM.6.dylib' (no such file)
+^[[A
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+]0;~/Desktop/learn-r[?1034h(base) Stevens-MBP:learn-r stevenerrington$ conda activate learn-rsudo apt-get install -y libxml2-dev libcurl4-openssl-dev libssl-dev[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cconda activate learn-r[K
+]0;~/Desktop/learn-r(learn-r) Stevens-MBP:learn-r stevenerrington$ code-select --installxc[1@d[1P[1@x
+xcode-select: error: invalid argument '--installxc'
+Usage: xcode-select [options]
+
+Print or change the path to the active developer directory. This directory
+controls which tools are used for the Xcode command line tools (for example, 
+xcodebuild) as well as the BSD development commands (such as cc and make).
+
+Options:
+  -h, --help                  print this help message and exit
+  -p, --print-path            print the path of the active developer directory
+  -s <path>, --switch <path>  set the path for the active developer directory
+  --install                   open a dialog for installation of the command line developer tools
+  -v, --version               print the xcode-select version
+  -r, --reset                 reset to the default command line tools path
+]0;~/Desktop/learn-r(learn-r) Stevens-MBP:learn-r stevenerrington$ update.packages ()
+> 
+]0;~/Desktop/learn-r(learn-r) Stevens-MBP:learn-r stevenerrington$ 
+]0;~/Desktop/learn-r(learn-r) Stevens-MBP:learn-r stevenerrington$ 

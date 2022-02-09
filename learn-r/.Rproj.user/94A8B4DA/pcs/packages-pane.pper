@@ -1,0 +1,7 @@
+{
+    "installOptions": {
+        "installDependencies": true,
+        "installFromRepository": true,
+        "libraryPath": "/Users/stevenerrington/opt/anaconda3/envs/learn-r/lib/R/library"
+    }
+}

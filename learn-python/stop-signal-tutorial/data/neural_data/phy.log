@@ -1,0 +1,460 @@
+[90m10:53:36.808 [D] context:80           Create cache directory `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy`.[0m
+[90m10:53:36.808 [D] context:80           Create cache directory `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy`.[0m
+[90m10:53:36.855 [D] context:100          Initialize joblib cache dir at `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy`.[0m
+[90m10:53:36.855 [D] context:100          Initialize joblib cache dir at `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy`.[0m
+[90m10:53:36.855 [D] context:101          Reducing the size of the cache if needed.[0m
+[90m10:53:36.855 [D] context:101          Reducing the size of the cache if needed.[0m
+[90m10:53:36.870 [D] base:102             Add filter `high_pass`.[0m
+[90m10:53:36.870 [D] base:102             Add filter `high_pass`.[0m
+[90m10:53:36.870 [D] config:31            Load config file `C:\Users\Steven\.phy\phy_config.py`.[0m
+[90m10:53:36.870 [D] config:31            Load config file `C:\Users\Steven\.phy\phy_config.py`.[0m
+[90m10:53:36.870 [D] plugin:145           Loading 0 plugins.[0m
+[90m10:53:36.870 [D] plugin:145           Loading 0 plugins.[0m
+[90m10:53:36.901 [D] context:209          The file `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.pkl` doesn't exist.[0m
+[90m10:53:36.901 [D] context:209          The file `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.pkl` doesn't exist.[0m
+[90m10:53:36.901 [D] context:209          The file `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\spikes_per_cluster.pkl` doesn't exist.[0m
+[90m10:53:36.901 [D] context:209          The file `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\spikes_per_cluster.pkl` doesn't exist.[0m
+[90m10:53:36.948 [D] clustering:237       Recompute spikes_per_cluster manually: this might take a while.[0m
+[90m10:53:36.948 [D] clustering:237       Recompute spikes_per_cluster manually: this might take a while.[0m
+[90m10:53:37.198 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\spikes_per_cluster.pkl`.[0m
+[90m10:53:37.198 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\spikes_per_cluster.pkl`.[0m
+[90m10:53:37.526 [D] gui:463              Creating GUI.[0m
+[90m10:53:37.526 [D] gui:463              Creating GUI.[0m
+[90m10:53:37.542 [D] state:46             Load C:\Users\Steven\.phy\TemplateGUI\state.json for GUIState.[0m
+[90m10:53:37.542 [D] state:46             Load C:\Users\Steven\.phy\TemplateGUI\state.json for GUIState.[0m
+[90m10:53:37.887 [D] gui:718              Add view ClusterView to GUI.[0m
+[90m10:53:37.887 [D] gui:718              Add view ClusterView to GUI.[0m
+[90m10:53:37.900 [D] gui:718              Add view SimilarityView to GUI.[0m
+[90m10:53:37.900 [D] gui:718              Add view SimilarityView to GUI.[0m
+[90m10:53:37.954 [D] gui:718              Add view WaveformView to GUI.[0m
+[90m10:53:37.954 [D] gui:718              Add view WaveformView to GUI.[0m
+[90m10:53:37.959 [D] base:337             Set state for WaveformView.[0m
+[90m10:53:37.959 [D] base:337             Set state for WaveformView.[0m
+[90m10:53:37.977 [D] gui:718              Add view CorrelogramView to GUI.[0m
+[90m10:53:37.977 [D] gui:718              Add view CorrelogramView to GUI.[0m
+[90m10:53:37.980 [D] base:337             Set state for CorrelogramView.[0m
+[90m10:53:37.980 [D] base:337             Set state for CorrelogramView.[0m
+[90m10:53:38.012 [D] gui:718              Add view ISIView to GUI.[0m
+[90m10:53:38.012 [D] gui:718              Add view ISIView to GUI.[0m
+[90m10:53:38.015 [D] base:337             Set state for ISIView.[0m
+[90m10:53:38.015 [D] base:337             Set state for ISIView.[0m
+[90m10:53:38.033 [D] gui:718              Add view FeatureView to GUI.[0m
+[90m10:53:38.033 [D] gui:718              Add view FeatureView to GUI.[0m
+[90m10:53:38.036 [D] base:337             Set state for FeatureView.[0m
+[90m10:53:38.036 [D] base:337             Set state for FeatureView.[0m
+[90m10:53:38.068 [D] gui:718              Add view AmplitudeView to GUI.[0m
+[90m10:53:38.068 [D] gui:718              Add view AmplitudeView to GUI.[0m
+[90m10:53:38.071 [D] base:337             Set state for AmplitudeView.[0m
+[90m10:53:38.071 [D] base:337             Set state for AmplitudeView.[0m
+[90m10:53:38.104 [D] gui:718              Add view FiringRateView to GUI.[0m
+[90m10:53:38.104 [D] gui:718              Add view FiringRateView to GUI.[0m
+[90m10:53:38.107 [D] base:337             Set state for FiringRateView.[0m
+[90m10:53:38.107 [D] base:337             Set state for FiringRateView.[0m
+[90m10:53:38.252 [D] gui:718              Add view TraceView to GUI.[0m
+[90m10:53:38.252 [D] gui:718              Add view TraceView to GUI.[0m
+[90m10:53:38.256 [D] base:337             Set state for TraceView.[0m
+[90m10:53:38.256 [D] base:337             Set state for TraceView.[0m
+[90m10:53:38.257 [D] base:494             Set color scheme to random.[0m
+[90m10:53:38.257 [D] base:494             Set color scheme to random.[0m
+[90m10:53:38.273 [D] base:1623            Adding default color schemes to TraceView.[0m
+[90m10:53:38.273 [D] base:1623            Adding default color schemes to TraceView.[0m
+[90m10:53:38.464 [D] gui:519              Load the geometry state.[0m
+[90m10:53:38.464 [D] gui:519              Load the geometry state.[0m
+[90m10:53:56.632 [D] supervisor:813       Clusters selected: [3] (2)[0m
+[90m10:53:56.632 [D] supervisor:813       Clusters selected: [3] (2)[0m
+[90m10:56:26.818 [D] supervisor:1087      Move [3] to good.[0m
+[90m10:56:26.818 [D] supervisor:1087      Move [3] to good.[0m
+[0m10:56:26.818 [I] supervisor:711       Change metadata_group for clusters 3 to good.[0m
+[0m10:56:26.818 [I] supervisor:711       Change metadata_group for clusters 3 to good.[0m
+[90m10:56:26.818 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:56:26.818 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:56:26.858 [D] supervisor:813       Clusters selected: [2] (4)[0m
+[90m10:56:26.858 [D] supervisor:813       Clusters selected: [2] (4)[0m
+[90m10:56:29.256 [D] supervisor:1087      Move [2] to good.[0m
+[90m10:56:29.256 [D] supervisor:1087      Move [2] to good.[0m
+[0m10:56:29.256 [I] supervisor:711       Change metadata_group for clusters 2 to good.[0m
+[0m10:56:29.256 [I] supervisor:711       Change metadata_group for clusters 2 to good.[0m
+[90m10:56:29.272 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:56:29.272 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:56:29.300 [D] supervisor:813       Clusters selected: [4] (18)[0m
+[90m10:56:29.300 [D] supervisor:813       Clusters selected: [4] (18)[0m
+[90m10:56:36.597 [D] supervisor:1087      Move [4] to good.[0m
+[90m10:56:36.597 [D] supervisor:1087      Move [4] to good.[0m
+[0m10:56:36.597 [I] supervisor:711       Change metadata_group for clusters 4 to good.[0m
+[0m10:56:36.597 [I] supervisor:711       Change metadata_group for clusters 4 to good.[0m
+[90m10:56:36.597 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:56:36.597 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:56:36.632 [D] supervisor:813       Clusters selected: [18] (5)[0m
+[90m10:56:36.632 [D] supervisor:813       Clusters selected: [18] (5)[0m
+[90m10:56:41.526 [D] supervisor:1087      Move [18] to good.[0m
+[90m10:56:41.526 [D] supervisor:1087      Move [18] to good.[0m
+[0m10:56:41.526 [I] supervisor:711       Change metadata_group for clusters 18 to good.[0m
+[0m10:56:41.526 [I] supervisor:711       Change metadata_group for clusters 18 to good.[0m
+[90m10:56:41.526 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:56:41.526 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:56:41.561 [D] supervisor:813       Clusters selected: [5] (15)[0m
+[90m10:56:41.561 [D] supervisor:813       Clusters selected: [5] (15)[0m
+[90m10:56:50.419 [D] supervisor:1087      Move [5] to good.[0m
+[90m10:56:50.419 [D] supervisor:1087      Move [5] to good.[0m
+[0m10:56:50.419 [I] supervisor:711       Change metadata_group for clusters 5 to good.[0m
+[0m10:56:50.419 [I] supervisor:711       Change metadata_group for clusters 5 to good.[0m
+[90m10:56:50.419 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:56:50.419 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:56:50.456 [D] supervisor:813       Clusters selected: [15] (21)[0m
+[90m10:56:50.456 [D] supervisor:813       Clusters selected: [15] (21)[0m
+[90m10:56:54.344 [D] supervisor:1087      Move [15] to good.[0m
+[90m10:56:54.344 [D] supervisor:1087      Move [15] to good.[0m
+[0m10:56:54.344 [I] supervisor:711       Change metadata_group for clusters 15 to good.[0m
+[0m10:56:54.344 [I] supervisor:711       Change metadata_group for clusters 15 to good.[0m
+[90m10:56:54.360 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:56:54.360 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:56:54.391 [D] supervisor:813       Clusters selected: [21] (13)[0m
+[90m10:56:54.391 [D] supervisor:813       Clusters selected: [21] (13)[0m
+[90m10:56:57.146 [D] supervisor:1087      Move [21] to good.[0m
+[90m10:56:57.146 [D] supervisor:1087      Move [21] to good.[0m
+[0m10:56:57.146 [I] supervisor:711       Change metadata_group for clusters 21 to good.[0m
+[0m10:56:57.146 [I] supervisor:711       Change metadata_group for clusters 21 to good.[0m
+[90m10:56:57.161 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:56:57.161 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:56:57.189 [D] supervisor:813       Clusters selected: [13] (16)[0m
+[90m10:56:57.189 [D] supervisor:813       Clusters selected: [13] (16)[0m
+[90m10:56:59.680 [D] supervisor:1087      Move [13] to good.[0m
+[90m10:56:59.680 [D] supervisor:1087      Move [13] to good.[0m
+[0m10:56:59.680 [I] supervisor:711       Change metadata_group for clusters 13 to good.[0m
+[0m10:56:59.680 [I] supervisor:711       Change metadata_group for clusters 13 to good.[0m
+[90m10:56:59.680 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:56:59.680 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:56:59.719 [D] supervisor:813       Clusters selected: [16] (17)[0m
+[90m10:56:59.719 [D] supervisor:813       Clusters selected: [16] (17)[0m
+[90m10:57:02.948 [D] supervisor:1087      Move [16] to good.[0m
+[90m10:57:02.948 [D] supervisor:1087      Move [16] to good.[0m
+[0m10:57:02.948 [I] supervisor:711       Change metadata_group for clusters 16 to good.[0m
+[0m10:57:02.948 [I] supervisor:711       Change metadata_group for clusters 16 to good.[0m
+[90m10:57:02.948 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:57:02.948 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:57:02.983 [D] supervisor:813       Clusters selected: [17] (9)[0m
+[90m10:57:02.983 [D] supervisor:813       Clusters selected: [17] (9)[0m
+[90m10:57:11.296 [D] supervisor:1087      Move [17] to good.[0m
+[90m10:57:11.296 [D] supervisor:1087      Move [17] to good.[0m
+[0m10:57:11.296 [I] supervisor:711       Change metadata_group for clusters 17 to good.[0m
+[0m10:57:11.296 [I] supervisor:711       Change metadata_group for clusters 17 to good.[0m
+[90m10:57:11.296 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:57:11.296 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:57:11.337 [D] supervisor:813       Clusters selected: [9] (19)[0m
+[90m10:57:11.337 [D] supervisor:813       Clusters selected: [9] (19)[0m
+[33m10:57:34.257 [W] supervisor:1037      No spikes selected, cannot split.[0m
+[33m10:57:34.257 [W] supervisor:1037      No spikes selected, cannot split.[0m
+[90m10:57:34.287 [D] supervisor:813       Clusters selected: [2] (4)[0m
+[90m10:57:34.287 [D] supervisor:813       Clusters selected: [2] (4)[0m
+[90m10:57:39.087 [D] supervisor:813       Clusters selected: [9] (19)[0m
+[90m10:57:39.087 [D] supervisor:813       Clusters selected: [9] (19)[0m
+[90m10:57:46.885 [D] supervisor:1087      Move [9] to good.[0m
+[90m10:57:46.885 [D] supervisor:1087      Move [9] to good.[0m
+[0m10:57:46.885 [I] supervisor:711       Change metadata_group for clusters 9 to good.[0m
+[0m10:57:46.885 [I] supervisor:711       Change metadata_group for clusters 9 to good.[0m
+[90m10:57:46.885 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:57:46.885 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:57:46.920 [D] supervisor:813       Clusters selected: [19] (6)[0m
+[90m10:57:46.920 [D] supervisor:813       Clusters selected: [19] (6)[0m
+[90m10:57:51.373 [D] supervisor:1087      Move [19] to good.[0m
+[90m10:57:51.373 [D] supervisor:1087      Move [19] to good.[0m
+[0m10:57:51.373 [I] supervisor:711       Change metadata_group for clusters 19 to good.[0m
+[0m10:57:51.373 [I] supervisor:711       Change metadata_group for clusters 19 to good.[0m
+[90m10:57:51.389 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:57:51.389 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:57:51.418 [D] supervisor:813       Clusters selected: [6] (23)[0m
+[90m10:57:51.418 [D] supervisor:813       Clusters selected: [6] (23)[0m
+[90m10:57:54.018 [D] supervisor:1087      Move [6] to good.[0m
+[90m10:57:54.018 [D] supervisor:1087      Move [6] to good.[0m
+[0m10:57:54.018 [I] supervisor:711       Change metadata_group for clusters 6 to good.[0m
+[0m10:57:54.018 [I] supervisor:711       Change metadata_group for clusters 6 to good.[0m
+[90m10:57:54.018 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:57:54.018 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:57:54.053 [D] supervisor:813       Clusters selected: [23] (22)[0m
+[90m10:57:54.053 [D] supervisor:813       Clusters selected: [23] (22)[0m
+[90m10:57:57.429 [D] supervisor:1087      Move [23] to good.[0m
+[90m10:57:57.429 [D] supervisor:1087      Move [23] to good.[0m
+[0m10:57:57.431 [I] supervisor:711       Change metadata_group for clusters 23 to good.[0m
+[0m10:57:57.431 [I] supervisor:711       Change metadata_group for clusters 23 to good.[0m
+[90m10:57:57.436 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:57:57.436 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:57:57.449 [D] supervisor:813       Clusters selected: [22] (25)[0m
+[90m10:57:57.449 [D] supervisor:813       Clusters selected: [22] (25)[0m
+[90m10:58:01.553 [D] supervisor:1087      Move [22] to good.[0m
+[90m10:58:01.553 [D] supervisor:1087      Move [22] to good.[0m
+[0m10:58:01.553 [I] supervisor:711       Change metadata_group for clusters 22 to good.[0m
+[0m10:58:01.553 [I] supervisor:711       Change metadata_group for clusters 22 to good.[0m
+[90m10:58:01.553 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:58:01.553 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:58:01.589 [D] supervisor:813       Clusters selected: [25] (24)[0m
+[90m10:58:01.589 [D] supervisor:813       Clusters selected: [25] (24)[0m
+[90m10:58:04.595 [D] supervisor:1087      Move [25] to good.[0m
+[90m10:58:04.595 [D] supervisor:1087      Move [25] to good.[0m
+[0m10:58:04.595 [I] supervisor:711       Change metadata_group for clusters 25 to good.[0m
+[0m10:58:04.595 [I] supervisor:711       Change metadata_group for clusters 25 to good.[0m
+[90m10:58:04.595 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:58:04.595 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:58:04.629 [D] supervisor:813       Clusters selected: [24] (0)[0m
+[90m10:58:04.629 [D] supervisor:813       Clusters selected: [24] (0)[0m
+[90m10:58:09.033 [D] supervisor:1087      Move [24] to good.[0m
+[90m10:58:09.033 [D] supervisor:1087      Move [24] to good.[0m
+[0m10:58:09.033 [I] supervisor:711       Change metadata_group for clusters 24 to good.[0m
+[0m10:58:09.033 [I] supervisor:711       Change metadata_group for clusters 24 to good.[0m
+[90m10:58:09.049 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:58:09.049 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:58:09.083 [D] supervisor:813       Clusters selected: [0] (28)[0m
+[90m10:58:09.083 [D] supervisor:813       Clusters selected: [0] (28)[0m
+[90m10:58:13.754 [D] supervisor:1087      Move [0] to good.[0m
+[90m10:58:13.754 [D] supervisor:1087      Move [0] to good.[0m
+[0m10:58:13.754 [I] supervisor:711       Change metadata_group for clusters 0 to good.[0m
+[0m10:58:13.754 [I] supervisor:711       Change metadata_group for clusters 0 to good.[0m
+[90m10:58:13.769 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:58:13.769 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:58:13.801 [D] supervisor:813       Clusters selected: [28] (26)[0m
+[90m10:58:13.801 [D] supervisor:813       Clusters selected: [28] (26)[0m
+[90m10:58:16.128 [D] supervisor:1087      Move [28] to good.[0m
+[90m10:58:16.128 [D] supervisor:1087      Move [28] to good.[0m
+[0m10:58:16.128 [I] supervisor:711       Change metadata_group for clusters 28 to good.[0m
+[0m10:58:16.128 [I] supervisor:711       Change metadata_group for clusters 28 to good.[0m
+[90m10:58:16.128 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:58:16.128 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:58:16.164 [D] supervisor:813       Clusters selected: [26] (7)[0m
+[90m10:58:16.164 [D] supervisor:813       Clusters selected: [26] (7)[0m
+[90m10:58:22.848 [D] supervisor:1087      Move [26] to good.[0m
+[90m10:58:22.848 [D] supervisor:1087      Move [26] to good.[0m
+[0m10:58:22.848 [I] supervisor:711       Change metadata_group for clusters 26 to good.[0m
+[0m10:58:22.848 [I] supervisor:711       Change metadata_group for clusters 26 to good.[0m
+[90m10:58:22.848 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:58:22.848 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:58:22.889 [D] supervisor:813       Clusters selected: [7] (12)[0m
+[90m10:58:22.889 [D] supervisor:813       Clusters selected: [7] (12)[0m
+[90m10:58:27.505 [D] supervisor:1087      Move [7] to good.[0m
+[90m10:58:27.505 [D] supervisor:1087      Move [7] to good.[0m
+[0m10:58:27.505 [I] supervisor:711       Change metadata_group for clusters 7 to good.[0m
+[0m10:58:27.505 [I] supervisor:711       Change metadata_group for clusters 7 to good.[0m
+[90m10:58:27.505 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:58:27.505 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:58:27.545 [D] supervisor:813       Clusters selected: [12] (10)[0m
+[90m10:58:27.545 [D] supervisor:813       Clusters selected: [12] (10)[0m
+[90m10:58:31.677 [D] supervisor:1087      Move [12] to good.[0m
+[90m10:58:31.677 [D] supervisor:1087      Move [12] to good.[0m
+[0m10:58:31.677 [I] supervisor:711       Change metadata_group for clusters 12 to good.[0m
+[0m10:58:31.677 [I] supervisor:711       Change metadata_group for clusters 12 to good.[0m
+[90m10:58:31.693 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:58:31.693 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:58:31.721 [D] supervisor:813       Clusters selected: [10] (31)[0m
+[90m10:58:31.721 [D] supervisor:813       Clusters selected: [10] (31)[0m
+[90m10:58:36.920 [D] supervisor:813       Clusters selected: [10, 31, 11, 14, 8, 1, 27, 30, 29, 20] (None)[0m
+[90m10:58:36.920 [D] supervisor:813       Clusters selected: [10, 31, 11, 14, 8, 1, 27, 30, 29, 20] (None)[0m
+[90m10:58:38.888 [D] supervisor:1087      Move [10, 31, 11, 14, 8, 1, 27, 30, 29, 20] to noise.[0m
+[90m10:58:38.888 [D] supervisor:1087      Move [10, 31, 11, 14, 8, 1, 27, 30, 29, 20] to noise.[0m
+[0m10:58:38.903 [I] supervisor:711       Change metadata_group for clusters 10, 31, 11, 14, 8, 1, 27, 30, 29, 20 to noise.[0m
+[0m10:58:38.903 [I] supervisor:711       Change metadata_group for clusters 10, 31, 11, 14, 8, 1, 27, 30, 29, 20 to noise.[0m
+[90m10:58:38.903 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:58:38.903 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\new_cluster_id.json`.[0m
+[90m10:58:40.226 [D] supervisor:813       Clusters selected: [12] (None)[0m
+[90m10:58:40.226 [D] supervisor:813       Clusters selected: [12] (None)[0m
+[90m10:58:41.951 [D] supervisor:813       Clusters selected: [12, 3, 2, 4, 18, 5, 15, 21, 13, 16, 17, 9, 19, 6, 23, 22, 25, 24, 0, 28, 26, 7] (12)[0m
+[90m10:58:41.951 [D] supervisor:813       Clusters selected: [12, 3, 2, 4, 18, 5, 15, 21, 13, 16, 17, 9, 19, 6, 23, 22, 25, 24, 0, 28, 26, 7] (12)[0m
+[90m10:58:46.442 [D] supervisor:813       Clusters selected: [2] (4)[0m
+[90m10:58:46.442 [D] supervisor:813       Clusters selected: [2] (4)[0m
+[90m10:58:47.574 [D] supervisor:813       Clusters selected: [3] (2)[0m
+[90m10:58:47.574 [D] supervisor:813       Clusters selected: [3] (2)[0m
+[90m10:58:48.870 [D] supervisor:813       Clusters selected: [3, 2, 4] (18)[0m
+[90m10:58:48.870 [D] supervisor:813       Clusters selected: [3, 2, 4] (18)[0m
+[90m10:58:51.718 [D] supervisor:813       Clusters selected: [3, 2, 4, 18, 5] (15)[0m
+[90m10:58:51.718 [D] supervisor:813       Clusters selected: [3, 2, 4, 18, 5] (15)[0m
+[90m10:58:56.846 [D] supervisor:813       Clusters selected: [3, 2, 4, 18, 5, 15, 21, 13, 16, 17, 9] (19)[0m
+[90m10:58:56.846 [D] supervisor:813       Clusters selected: [3, 2, 4, 18, 5, 15, 21, 13, 16, 17, 9] (19)[0m
+[90m10:59:10.168 [D] supervisor:813       Clusters selected: [3, 2, 4, 18, 5, 15, 21, 13, 16, 17, 9, 19, 6, 23, 22, 25, 24] (0)[0m
+[90m10:59:10.168 [D] supervisor:813       Clusters selected: [3, 2, 4, 18, 5, 15, 21, 13, 16, 17, 9, 19, 6, 23, 22, 25, 24] (0)[0m
+[90m10:59:16.026 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\spikes_per_cluster.pkl`.[0m
+[90m10:59:16.026 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\spikes_per_cluster.pkl`.[0m
+[90m10:59:17.744 [D] state:171            Update GUI state for ClusterView[0m
+[90m10:59:17.744 [D] state:171            Update GUI state for ClusterView[0m
+[90m10:59:17.744 [D] state:171            Update GUI state for WaveformView[0m
+[90m10:59:17.744 [D] state:171            Update GUI state for WaveformView[0m
+[90m10:59:17.744 [D] state:171            Update GUI state for CorrelogramView[0m
+[90m10:59:17.744 [D] state:171            Update GUI state for CorrelogramView[0m
+[90m10:59:17.744 [D] state:171            Update GUI state for ISIView[0m
+[90m10:59:17.744 [D] state:171            Update GUI state for ISIView[0m
+[90m10:59:17.744 [D] state:171            Update GUI state for FeatureView[0m
+[90m10:59:17.744 [D] state:171            Update GUI state for FeatureView[0m
+[90m10:59:17.744 [D] state:171            Update GUI state for AmplitudeView[0m
+[90m10:59:17.744 [D] state:171            Update GUI state for AmplitudeView[0m
+[90m10:59:17.744 [D] state:171            Update GUI state for FiringRateView[0m
+[90m10:59:17.744 [D] state:171            Update GUI state for FiringRateView[0m
+[90m10:59:17.744 [D] state:171            Update GUI state for TraceView[0m
+[90m10:59:17.744 [D] state:171            Update GUI state for TraceView[0m
+[90m10:59:17.744 [D] context:138          Save memcache for `phy.apps.base._get_mean_waveforms`.[0m
+[90m10:59:17.744 [D] context:138          Save memcache for `phy.apps.base._get_mean_waveforms`.[0m
+[90m10:59:17.744 [D] context:138          Save memcache for `phy.apps.base._get_template_waveforms`.[0m
+[90m10:59:17.744 [D] context:138          Save memcache for `phy.apps.base._get_template_waveforms`.[0m
+[90m10:59:17.760 [D] context:138          Save memcache for `phy.apps.base.get_mean_spike_template_amplitudes`.[0m
+[90m10:59:17.760 [D] context:138          Save memcache for `phy.apps.base.get_mean_spike_template_amplitudes`.[0m
+[90m10:59:17.760 [D] context:138          Save memcache for `phy.apps.base.get_template_counts`.[0m
+[90m10:59:17.760 [D] context:138          Save memcache for `phy.apps.base.get_template_counts`.[0m
+[90m10:59:17.760 [D] context:138          Save memcache for `phy.apps.base.get_template_for_cluster`.[0m
+[90m10:59:17.760 [D] context:138          Save memcache for `phy.apps.base.get_template_for_cluster`.[0m
+[90m10:59:17.760 [D] context:138          Save memcache for `phy.apps.template.gui.get_template_amplitude`.[0m
+[90m10:59:17.760 [D] context:138          Save memcache for `phy.apps.template.gui.get_template_amplitude`.[0m
+[90m10:59:17.776 [D] context:138          Save memcache for `phy.apps.base.get_cluster_amplitude`.[0m
+[90m10:59:17.776 [D] context:138          Save memcache for `phy.apps.base.get_cluster_amplitude`.[0m
+[90m10:59:17.776 [D] context:138          Save memcache for `phy.apps.base.get_mean_firing_rate`.[0m
+[90m10:59:17.776 [D] context:138          Save memcache for `phy.apps.base.get_mean_firing_rate`.[0m
+[90m10:59:17.776 [D] context:138          Save memcache for `phy.apps.base.get_best_channel`.[0m
+[90m10:59:17.776 [D] context:138          Save memcache for `phy.apps.base.get_best_channel`.[0m
+[90m10:59:17.776 [D] context:138          Save memcache for `phy.apps.template.gui.get_best_channels`.[0m
+[90m10:59:17.776 [D] context:138          Save memcache for `phy.apps.template.gui.get_best_channels`.[0m
+[90m10:59:17.791 [D] context:138          Save memcache for `phy.apps.base.get_channel_shank`.[0m
+[90m10:59:17.791 [D] context:138          Save memcache for `phy.apps.base.get_channel_shank`.[0m
+[90m10:59:17.791 [D] context:138          Save memcache for `phy.apps.base.get_probe_depth`.[0m
+[90m10:59:17.791 [D] context:138          Save memcache for `phy.apps.base.get_probe_depth`.[0m
+[90m10:59:17.791 [D] context:138          Save memcache for `phy.apps.base.peak_channel_similarity`.[0m
+[90m10:59:17.791 [D] context:138          Save memcache for `phy.apps.base.peak_channel_similarity`.[0m
+[90m10:59:17.791 [D] gui:600              Save the geometry state.[0m
+[90m10:59:17.791 [D] gui:600              Save the geometry state.[0m
+[90m10:59:17.791 [D] state:218            Save global GUI state to `C:\Users\Steven\.phy\TemplateGUI\state.json`.[0m
+[90m10:59:17.791 [D] state:218            Save global GUI state to `C:\Users\Steven\.phy\TemplateGUI\state.json`.[0m
+[90m10:59:17.791 [D] state:232            Save local GUI state to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\state.json`.[0m
+[90m10:59:17.791 [D] state:232            Save local GUI state to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\state.json`.[0m
+[90m10:59:17.943 [D] __init__:87          Stop capturing exceptions.[0m
+[90m10:59:17.943 [D] __init__:87          Stop capturing exceptions.[0m
+[90m10:59:45.552 [D] context:100          Initialize joblib cache dir at `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy`.[0m
+[90m10:59:45.552 [D] context:100          Initialize joblib cache dir at `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy`.[0m
+[90m10:59:45.552 [D] context:101          Reducing the size of the cache if needed.[0m
+[90m10:59:45.552 [D] context:101          Reducing the size of the cache if needed.[0m
+[90m10:59:46.021 [D] base:102             Add filter `high_pass`.[0m
+[90m10:59:46.021 [D] base:102             Add filter `high_pass`.[0m
+[90m10:59:46.021 [D] config:31            Load config file `C:\Users\Steven\.phy\phy_config.py`.[0m
+[90m10:59:46.021 [D] config:31            Load config file `C:\Users\Steven\.phy\phy_config.py`.[0m
+[90m10:59:46.021 [D] plugin:145           Loading 0 plugins.[0m
+[90m10:59:46.021 [D] plugin:145           Loading 0 plugins.[0m
+[90m10:59:46.021 [D] context:126          Load memcache for `phy.apps.base._get_mean_waveforms`.[0m
+[90m10:59:46.021 [D] context:126          Load memcache for `phy.apps.base._get_mean_waveforms`.[0m
+[90m10:59:46.021 [D] context:126          Load memcache for `phy.apps.base._get_mean_waveforms`.[0m
+[90m10:59:46.021 [D] context:126          Load memcache for `phy.apps.base._get_mean_waveforms`.[0m
+[90m10:59:46.021 [D] context:126          Load memcache for `phy.apps.base._get_template_waveforms`.[0m
+[90m10:59:46.021 [D] context:126          Load memcache for `phy.apps.base._get_template_waveforms`.[0m
+[90m10:59:46.036 [D] context:126          Load memcache for `phy.apps.base.get_mean_spike_template_amplitudes`.[0m
+[90m10:59:46.036 [D] context:126          Load memcache for `phy.apps.base.get_mean_spike_template_amplitudes`.[0m
+[90m10:59:46.036 [D] context:126          Load memcache for `phy.apps.base.get_template_counts`.[0m
+[90m10:59:46.036 [D] context:126          Load memcache for `phy.apps.base.get_template_counts`.[0m
+[90m10:59:46.036 [D] context:126          Load memcache for `phy.apps.base.get_template_for_cluster`.[0m
+[90m10:59:46.036 [D] context:126          Load memcache for `phy.apps.base.get_template_for_cluster`.[0m
+[90m10:59:46.052 [D] context:126          Load memcache for `phy.apps.template.gui.get_template_amplitude`.[0m
+[90m10:59:46.052 [D] context:126          Load memcache for `phy.apps.template.gui.get_template_amplitude`.[0m
+[90m10:59:46.052 [D] context:126          Load memcache for `phy.apps.base.get_cluster_amplitude`.[0m
+[90m10:59:46.052 [D] context:126          Load memcache for `phy.apps.base.get_cluster_amplitude`.[0m
+[90m10:59:46.052 [D] context:126          Load memcache for `phy.apps.base.get_mean_firing_rate`.[0m
+[90m10:59:46.052 [D] context:126          Load memcache for `phy.apps.base.get_mean_firing_rate`.[0m
+[90m10:59:46.068 [D] context:126          Load memcache for `phy.apps.base.get_best_channel`.[0m
+[90m10:59:46.068 [D] context:126          Load memcache for `phy.apps.base.get_best_channel`.[0m
+[90m10:59:46.068 [D] context:126          Load memcache for `phy.apps.template.gui.get_best_channels`.[0m
+[90m10:59:46.068 [D] context:126          Load memcache for `phy.apps.template.gui.get_best_channels`.[0m
+[90m10:59:46.083 [D] context:126          Load memcache for `phy.apps.base.get_channel_shank`.[0m
+[90m10:59:46.083 [D] context:126          Load memcache for `phy.apps.base.get_channel_shank`.[0m
+[90m10:59:46.083 [D] context:126          Load memcache for `phy.apps.base.get_probe_depth`.[0m
+[90m10:59:46.083 [D] context:126          Load memcache for `phy.apps.base.get_probe_depth`.[0m
+[90m10:59:46.083 [D] context:126          Load memcache for `phy.apps.base.peak_channel_similarity`.[0m
+[90m10:59:46.083 [D] context:126          Load memcache for `phy.apps.base.peak_channel_similarity`.[0m
+[90m10:59:46.365 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\spikes_per_cluster.pkl`.[0m
+[90m10:59:46.365 [D] context:185          Save data to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\spikes_per_cluster.pkl`.[0m
+[90m10:59:46.724 [D] gui:463              Creating GUI.[0m
+[90m10:59:46.724 [D] gui:463              Creating GUI.[0m
+[90m10:59:46.740 [D] state:46             Load C:\Users\Steven\.phy\TemplateGUI\state.json for GUIState.[0m
+[90m10:59:46.740 [D] state:46             Load C:\Users\Steven\.phy\TemplateGUI\state.json for GUIState.[0m
+[90m10:59:46.740 [D] state:46             Load \\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\state.json for GUIState.[0m
+[90m10:59:46.740 [D] state:46             Load \\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\state.json for GUIState.[0m
+[90m10:59:47.030 [D] gui:718              Add view ClusterView to GUI.[0m
+[90m10:59:47.030 [D] gui:718              Add view ClusterView to GUI.[0m
+[90m10:59:47.044 [D] gui:718              Add view SimilarityView to GUI.[0m
+[90m10:59:47.044 [D] gui:718              Add view SimilarityView to GUI.[0m
+[90m10:59:47.098 [D] gui:718              Add view WaveformView to GUI.[0m
+[90m10:59:47.098 [D] gui:718              Add view WaveformView to GUI.[0m
+[90m10:59:47.103 [D] base:337             Set state for WaveformView.[0m
+[90m10:59:47.103 [D] base:337             Set state for WaveformView.[0m
+[90m10:59:47.120 [D] gui:718              Add view CorrelogramView to GUI.[0m
+[90m10:59:47.120 [D] gui:718              Add view CorrelogramView to GUI.[0m
+[90m10:59:47.123 [D] base:337             Set state for CorrelogramView.[0m
+[90m10:59:47.123 [D] base:337             Set state for CorrelogramView.[0m
+[90m10:59:47.155 [D] gui:718              Add view ISIView to GUI.[0m
+[90m10:59:47.155 [D] gui:718              Add view ISIView to GUI.[0m
+[90m10:59:47.159 [D] base:337             Set state for ISIView.[0m
+[90m10:59:47.159 [D] base:337             Set state for ISIView.[0m
+[90m10:59:47.176 [D] gui:718              Add view FeatureView to GUI.[0m
+[90m10:59:47.176 [D] gui:718              Add view FeatureView to GUI.[0m
+[90m10:59:47.179 [D] base:337             Set state for FeatureView.[0m
+[90m10:59:47.179 [D] base:337             Set state for FeatureView.[0m
+[90m10:59:47.209 [D] gui:718              Add view AmplitudeView to GUI.[0m
+[90m10:59:47.209 [D] gui:718              Add view AmplitudeView to GUI.[0m
+[90m10:59:47.212 [D] base:337             Set state for AmplitudeView.[0m
+[90m10:59:47.212 [D] base:337             Set state for AmplitudeView.[0m
+[90m10:59:47.243 [D] gui:718              Add view FiringRateView to GUI.[0m
+[90m10:59:47.243 [D] gui:718              Add view FiringRateView to GUI.[0m
+[90m10:59:47.246 [D] base:337             Set state for FiringRateView.[0m
+[90m10:59:47.246 [D] base:337             Set state for FiringRateView.[0m
+[90m10:59:47.345 [D] gui:718              Add view TraceView to GUI.[0m
+[90m10:59:47.345 [D] gui:718              Add view TraceView to GUI.[0m
+[90m10:59:47.349 [D] base:337             Set state for TraceView.[0m
+[90m10:59:47.349 [D] base:337             Set state for TraceView.[0m
+[90m10:59:47.349 [D] base:494             Set color scheme to random.[0m
+[90m10:59:47.349 [D] base:494             Set color scheme to random.[0m
+[90m10:59:47.400 [D] base:1623            Adding default color schemes to TraceView.[0m
+[90m10:59:47.400 [D] base:1623            Adding default color schemes to TraceView.[0m
+[90m10:59:47.587 [D] gui:519              Load the geometry state.[0m
+[90m10:59:47.587 [D] gui:519              Load the geometry state.[0m
+[90m10:59:48.417 [D] supervisor:813       Clusters selected: [3, 2, 4, 18, 5, 15, 21, 13, 16, 17, 9, 19, 6, 23, 22, 25, 24] (0)[0m
+[90m10:59:48.417 [D] supervisor:813       Clusters selected: [3, 2, 4, 18, 5, 15, 21, 13, 16, 17, 9, 19, 6, 23, 22, 25, 24] (0)[0m
+[90m10:59:54.870 [D] supervisor:813       Clusters selected: [3] (2)[0m
+[90m10:59:54.870 [D] supervisor:813       Clusters selected: [3] (2)[0m
+[90m11:00:51.875 [D] state:171            Update GUI state for ClusterView[0m
+[90m11:00:51.875 [D] state:171            Update GUI state for ClusterView[0m
+[90m11:00:51.876 [D] state:171            Update GUI state for WaveformView[0m
+[90m11:00:51.876 [D] state:171            Update GUI state for WaveformView[0m
+[90m11:00:51.877 [D] state:171            Update GUI state for CorrelogramView[0m
+[90m11:00:51.877 [D] state:171            Update GUI state for CorrelogramView[0m
+[90m11:00:51.878 [D] state:171            Update GUI state for ISIView[0m
+[90m11:00:51.878 [D] state:171            Update GUI state for ISIView[0m
+[90m11:00:51.878 [D] state:171            Update GUI state for FeatureView[0m
+[90m11:00:51.878 [D] state:171            Update GUI state for FeatureView[0m
+[90m11:00:51.879 [D] state:171            Update GUI state for AmplitudeView[0m
+[90m11:00:51.879 [D] state:171            Update GUI state for AmplitudeView[0m
+[90m11:00:51.879 [D] state:171            Update GUI state for FiringRateView[0m
+[90m11:00:51.879 [D] state:171            Update GUI state for FiringRateView[0m
+[90m11:00:51.881 [D] state:171            Update GUI state for TraceView[0m
+[90m11:00:51.881 [D] state:171            Update GUI state for TraceView[0m
+[90m11:00:51.882 [D] context:138          Save memcache for `phy.apps.base._get_mean_waveforms`.[0m
+[90m11:00:51.882 [D] context:138          Save memcache for `phy.apps.base._get_mean_waveforms`.[0m
+[90m11:00:51.887 [D] context:138          Save memcache for `phy.apps.base._get_template_waveforms`.[0m
+[90m11:00:51.887 [D] context:138          Save memcache for `phy.apps.base._get_template_waveforms`.[0m
+[90m11:00:51.890 [D] context:138          Save memcache for `phy.apps.base.get_mean_spike_template_amplitudes`.[0m
+[90m11:00:51.890 [D] context:138          Save memcache for `phy.apps.base.get_mean_spike_template_amplitudes`.[0m
+[90m11:00:51.894 [D] context:138          Save memcache for `phy.apps.base.get_template_counts`.[0m
+[90m11:00:51.894 [D] context:138          Save memcache for `phy.apps.base.get_template_counts`.[0m
+[90m11:00:51.930 [D] context:138          Save memcache for `phy.apps.base.get_template_for_cluster`.[0m
+[90m11:00:51.930 [D] context:138          Save memcache for `phy.apps.base.get_template_for_cluster`.[0m
+[90m11:00:51.934 [D] context:138          Save memcache for `phy.apps.template.gui.get_template_amplitude`.[0m
+[90m11:00:51.934 [D] context:138          Save memcache for `phy.apps.template.gui.get_template_amplitude`.[0m
+[90m11:00:51.938 [D] context:138          Save memcache for `phy.apps.base.get_cluster_amplitude`.[0m
+[90m11:00:51.938 [D] context:138          Save memcache for `phy.apps.base.get_cluster_amplitude`.[0m
+[90m11:00:51.942 [D] context:138          Save memcache for `phy.apps.base.get_mean_firing_rate`.[0m
+[90m11:00:51.942 [D] context:138          Save memcache for `phy.apps.base.get_mean_firing_rate`.[0m
+[90m11:00:51.946 [D] context:138          Save memcache for `phy.apps.base.get_best_channel`.[0m
+[90m11:00:51.946 [D] context:138          Save memcache for `phy.apps.base.get_best_channel`.[0m
+[90m11:00:51.950 [D] context:138          Save memcache for `phy.apps.template.gui.get_best_channels`.[0m
+[90m11:00:51.950 [D] context:138          Save memcache for `phy.apps.template.gui.get_best_channels`.[0m
+[90m11:00:51.954 [D] context:138          Save memcache for `phy.apps.base.get_channel_shank`.[0m
+[90m11:00:51.954 [D] context:138          Save memcache for `phy.apps.base.get_channel_shank`.[0m
+[90m11:00:51.957 [D] context:138          Save memcache for `phy.apps.base.get_probe_depth`.[0m
+[90m11:00:51.957 [D] context:138          Save memcache for `phy.apps.base.get_probe_depth`.[0m
+[90m11:00:51.961 [D] context:138          Save memcache for `phy.apps.base.peak_channel_similarity`.[0m
+[90m11:00:51.961 [D] context:138          Save memcache for `phy.apps.base.peak_channel_similarity`.[0m
+[90m11:00:51.965 [D] gui:600              Save the geometry state.[0m
+[90m11:00:51.965 [D] gui:600              Save the geometry state.[0m
+[90m11:00:51.965 [D] state:218            Save global GUI state to `C:\Users\Steven\.phy\TemplateGUI\state.json`.[0m
+[90m11:00:51.965 [D] state:218            Save global GUI state to `C:\Users\Steven\.phy\TemplateGUI\state.json`.[0m
+[90m11:00:51.968 [D] state:232            Save local GUI state to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\state.json`.[0m
+[90m11:00:51.968 [D] state:232            Save local GUI state to `\\10.32.132.121\Lab Files\Users\Current Lab Members\Steven Errington\temp\dajo_kilosort\dar-cmand1DR-ACC-20201127\.phy\state.json`.[0m
+[90m11:00:52.014 [D] __init__:87          Stop capturing exceptions.[0m
+[90m11:00:52.014 [D] __init__:87          Stop capturing exceptions.[0m
